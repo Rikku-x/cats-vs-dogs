@@ -2,7 +2,7 @@
   "name": "catgenerator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rikku-x.github.io/cats-vs-dogs",
+  "homepage": "https://rikku-x.github.io/cats-vs-dogs",
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
