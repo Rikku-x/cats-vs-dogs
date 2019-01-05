@@ -2,14 +2,32 @@
   text-align: center;
 }
 
+body {
+  background-color: #3bff6729;
+}
+
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+  cursor: pointer;
+  display: inline;
+  height: 250px;
+  margin-top: 70px;
+}
+
+.App-logo:active {
+  transform: translateY(4px);
+}
+
+.Dog-logo {
+  cursor: pointer;
+  display: inline;
+  margin-right: 90px;
+}
+
+.Dog-logo:active {
+  transform: translateY(4px);
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -29,4 +47,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.Player {
+  margin-top: 20px;
 }
