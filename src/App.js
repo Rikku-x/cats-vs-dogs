@@ -5,7 +5,7 @@ import './App.css';
 
 class App extends Component {
   nextVideoCat() {
-    let url = "https://www.googleapis.com/youtube/v3/search?maxResults=25&q=cats&part=snippet&key=AIzaSyA6Rl6pARvhfnZ-HN8YLzETjxujdcTov9g"
+    let url = "https://www.googleapis.com/youtube/v3/search?maxResults=25&q=cats&part=snippet&key=AIzaSyCYQy2hy8MW8Xhn2Jx1-c1c5GgWIQ_-w4Q"
     let self = this;
 
     fetch(url).then((response) => {
@@ -20,7 +20,7 @@ class App extends Component {
   }
 
   nextVideoDog() {
-    let url = "https://www.googleapis.com/youtube/v3/search?maxResults=25&q=dogs&part=snippet&key=AIzaSyA6Rl6pARvhfnZ-HN8YLzETjxujdcTov9g"
+    let url = "https://www.googleapis.com/youtube/v3/search?maxResults=25&q=dogs&part=snippet&key=AIzaSyCYQy2hy8MW8Xhn2Jx1-c1c5GgWIQ_-w4Q"
     let self = this;
 
     fetch(url).then((response) => {
