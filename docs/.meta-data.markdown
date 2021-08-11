@@ -1,6 +1,6 @@
 ---
-title: 
-creation_date: 
+title: super service
+creation_date: 123456
 current_version: 12
 location_of_technologie: test
 maintainers: test
@@ -13,5 +13,3 @@ type: test
 
 
 ### <a name="title"></a> super service
-
-<a name="creation_date"></a>  123456
