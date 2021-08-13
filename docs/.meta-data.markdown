@@ -1,15 +1,3 @@
-<!-- ---
-title: super service
-creation_date: 123456
-current_version: 12
-location_of_technologie: test
-maintainers: test
-short_description: Lorem ipsum lorem ipsum
-tags: test
-team: test
-type: test
----
- -->
 ### title
 super service
 
