@@ -27,6 +27,7 @@ Bob
 
 ### description
 Lorem ipsum lorem ipsum
+this is a new line
 
 ### tags
 frontend
