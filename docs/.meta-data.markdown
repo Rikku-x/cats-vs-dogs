@@ -1,24 +1,36 @@
-### title
+### type
+Service
+
+### veritas
 super service
 
-### creation Date
-123456
+### tags
+frontend
 
-### current Version
+### currentVersion
 12
 
 ### location
 test location
 
-### maintainers
-Bob
-
 ### description
 Lorem ipsum lorem ipsum
 this is a new line
 
-### tags
-frontend
-
 ### team
 tiger
+
+
+### maintainers
+Bob
+
+### creationDate
+123456
+
+
+
+
+
+
+
+
