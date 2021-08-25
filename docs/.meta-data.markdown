@@ -5,7 +5,7 @@ Service
 super service
 
 ### tags
-frontend
+frontend css
 
 ### currentVersion
 12
